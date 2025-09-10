@@ -7,6 +7,7 @@ RUN mamba install --yes \
     'pandas' \
     'geopandas' \
     'matplotlib' \
+    'mapclassify' \
     'r-extrafont' && \
     mamba clean --all -f -y && \
     fix-permissions "${CONDA_DIR}" && \
