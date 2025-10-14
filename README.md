@@ -1,5 +1,10 @@
 # STEM Data Visualization and Du Boisian Methods
 
+<div>
+<img src="https://github.com/carpentries-incubator/R-Data-Viz-with-Du-Bois/blob/main/episodes/files/du-bois-title.png?raw=true"
+width="400" />
+</div>
+
 This repository publishes data and Jupyter Notebooks for the **STEM Data Visualization 
 and Du Boisian Methods** learning modules. The lessons (we use the terms module 
 and lesson interchangeably) are designed for learning how 
