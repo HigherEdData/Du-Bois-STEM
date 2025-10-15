@@ -78,7 +78,7 @@ Cloud using any web browser with no installation required.Links to the associate
 coding interactives are provided on each lesson site.  But you can also navigate 
 directly to them here:
 * [Literacy Bar Graph with R Notebook](http://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fr_literacy_dubois.ipynb&branch=main)
-  * [Video Tutorial Video](https://drive.google.com/file/d/1ld6zO3PAOv-2vvkHhK5Guq9O3TT4GnHN/view?usp=sharing)
+  * [Video Tutorial](https://drive.google.com/file/d/1ld6zO3PAOv-2vvkHhK5Guq9O3TT4GnHN/view?usp=sharing)
   * [Static version]()
 * [Literacy to Biodiversity with R Notebook](https://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fr_literacy_biodiversity_dubois.ipynb&branch=main)
   * [Video Tutorial](https://drive.google.com/file/d/13gA01M3Vw0Y5udUOFjUnx8GI2ZDCXArh/view?usp=drive_web)
@@ -86,6 +86,7 @@ directly to them here:
 * [Literacy Bar Graph with Python Notebook](http://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fpython_literacy_dubois.ipynb&branch=main)
   * [Static version]()
 * [Black Population Map Python Notebook](https://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fpython_popmap_dubois.ipynb&branch=main)
+  * [Static version]()
 
 
 ## Our Team
