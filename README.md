@@ -85,7 +85,7 @@ directly to them here:
   * [Static version]()
 * [Literacy Bar Graph with Python Notebook](http://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fpython_literacy_dubois.ipynb&branch=main)
   * [Static version]()
-* [Black Population Map Python Notebook](https://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fpython_popmap_dubois.ipynb&branch=main)
+* [Black Population Map Python Notebook](http://dubois.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FHigherEdData%2FDu-Bois-STEM&urlpath=tree%2FDu-Bois-STEM%2Fnotebooks%2Fpython_popmap_dubois.ipynb&branch=main)
   * [Static version]()
 
 
